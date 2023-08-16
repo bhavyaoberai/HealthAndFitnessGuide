@@ -363,7 +363,7 @@
   /* HOME */
   
   .hero {
-    background-image: url('/images/home.jpeg');
+    background-image: url('images/home.jpeg');
     padding-block: 130px 20px;
     background-repeat: no-repeat;
     background-size: 100% 100%;
